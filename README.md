@@ -43,6 +43,7 @@ Paid:
 [Codecademy](https://www.codecademy.com/)   
 [Data Camp](https://www.datacamp.com/)   
 [Data With Danny](https://www.datawithdanny.com/)
+[Dataquest](https://www.dataquest.io/)
 
 ## Books
 
